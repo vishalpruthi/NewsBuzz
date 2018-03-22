@@ -1,8 +1,11 @@
-# newsbuzz
+# News Buzz
 
-A new Flutter application.
+News App created in Flutter using News API for fetching realtime data and Firebase as the backend and authenticator.
 
-## Getting Started
+## Features
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+* Custom news feed based on selected sources
+* Saving articles
+* Explore news based on categories
+* Search for topics
+* Sharing articles
