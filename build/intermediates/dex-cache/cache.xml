@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishal\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\204ade95ea269db22cb8c62870a17388\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="D:\My_Folder\Study\Programming\Android\newsbuzz\build\app\intermediates\transforms\preDex\release\21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishal\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\2b953aad28b8a905e3df0669f721a2fb\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="D:\My_Folder\Study\Programming\Android\newsbuzz\build\app\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishal\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-11.0.4.aar\c695b89b1e61ac95d89e06be52de8106\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4b685077cdb08cf7ae8b61afd1fe910e47d91b9a">
+        <dex dex="D:\My_Folder\Study\Programming\Android\newsbuzz\build\app\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishal\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\ef48430e6ac5c52eca867de506ee4653\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="D:\My_Folder\Study\Programming\Android\newsbuzz\build\app\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishal\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\f79d4efb486e9b9525b07cf4ea520c16\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="D:\My_Folder\Study\Programming\Android\newsbuzz\build\app\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishal\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\f40a79e43b7a426e651f21eae22a647e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="D:\My_Folder\Study\Programming\Android\newsbuzz\build\app\intermediates\transforms\preDex\release\20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\My_Folder\Study\Programming\Android\newsbuzz\build\firebase_storage\intermediates\intermediate-jars\release\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a0c3e5d89d98bec4bb8dc1da42ecc2e29e441fd8">
+        <dex dex="D:\My_Folder\Study\Programming\Android\newsbuzz\build\app\intermediates\transforms\preDex\release\31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishal\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\a7d317f43636e5756b870b6c8e213077\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="D:\My_Folder\Study\Programming\Android\newsbuzz\build\app\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishal\.gradle\caches\transforms-1\files-1.1\firebase-storage-11.0.4.aar\9a46c6a26457f94757f4a39fea17f449\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3ac08c35419ab7cf9146969de471768dbe502f0f">
+        <dex dex="D:\My_Folder\Study\Programming\Android\newsbuzz\build\app\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishal\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\87a00c99ad3c4d419e3e57224b7ca046\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="D:\My_Folder\Study\Programming\Android\newsbuzz\build\app\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishal\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\e3b6dcad818bc59b11cd8efd65890878\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f5ff5e3811e8c9485fd27f9052ae4d4d23a22d9d">
+        <dex dex="D:\My_Folder\Study\Programming\Android\newsbuzz\build\app\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishal\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\a9943511a9831086008afb6dda787a00\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\My_Folder\Study\Programming\Android\newsbuzz\build\app\intermediates\transforms\preDex\release\18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishal\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="D:\My_Folder\Study\Programming\Android\newsbuzz\build\app\intermediates\transforms\preDex\release\24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishal\.gradle\caches\transforms-1\files-1.1\firebase-database-11.0.4.aar\4e181c0000fca3ec241c34534f669a4b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="D:\My_Folder\Study\Programming\Android\newsbuzz\build\app\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishal\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\c40e24f4a82e54f2933d80ea43be151f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="D:\My_Folder\Study\Programming\Android\newsbuzz\build\app\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishal\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\2264b021cf095471c11c5dcc02b577d3\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="D:\My_Folder\Study\Programming\Android\newsbuzz\build\app\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishal\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-11.0.4.aar\4f34037081fdb808642b8dd823d86eb4\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0bffdc0bd4f7ca0e27c5bfeef39569f8da00aa26">
+        <dex dex="D:\My_Folder\Study\Programming\Android\newsbuzz\build\app\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishal\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.0.4.aar\5f624e08a2c60c2436d41577af951be2\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="D:\My_Folder\Study\Programming\Android\newsbuzz\build\app\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\My_Folder\Study\Programming\Android\newsbuzz\build\share\intermediates\intermediate-jars\release\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8500dd9970a43338a15ddf300445992280433254">
+        <dex dex="D:\My_Folder\Study\Programming\Android\newsbuzz\build\app\intermediates\transforms\preDex\release\27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishal\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\a20b66112bb4c99e9d418500d91db274\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="D:\My_Folder\Study\Programming\Android\newsbuzz\build\app\intermediates\transforms\preDex\release\23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishal\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\db72ec15171442e10ad74dc9297c5f29\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="D:\My_Folder\Study\Programming\Android\newsbuzz\build\app\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishal\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-11.0.4.aar\47492c1c549316d00d687517c02d2f9b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0bffdc0bd4f7ca0e27c5bfeef39569f8da00aa26">
+        <dex dex="D:\My_Folder\Study\Programming\Android\newsbuzz\build\app\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\My_Folder\Study\Programming\Android\newsbuzz\build\firebase_auth\intermediates\intermediate-jars\release\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="39917d4655ff65e85b0a15793cb16cbcc39de55d">
+        <dex dex="D:\My_Folder\Study\Programming\Android\newsbuzz\build\app\intermediates\transforms\preDex\release\26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishal\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\550d0fb9ae95aaff5e5c9e4dab2ad533\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="D:\My_Folder\Study\Programming\Android\newsbuzz\build\app\intermediates\transforms\preDex\release\23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishal\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\b8146eebd13c1f6aed1b29414272d46a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="D:\My_Folder\Study\Programming\Android\newsbuzz\build\app\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishal\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\9792db67a0e86b69d959f893df742449\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="D:\My_Folder\Study\Programming\Android\newsbuzz\build\app\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishal\.gradle\caches\transforms-1\files-1.1\firebase-database-11.0.4.aar\b25f16353561cc9fd70cd9912d6cac1e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="D:\My_Folder\Study\Programming\Android\newsbuzz\build\app\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishal\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\ce93925bb12e184471b3d989ceb745ff\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="D:\My_Folder\Study\Programming\Android\newsbuzz\build\app\intermediates\transforms\preDex\release\22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishal\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.0.4.aar\7b17491a2baceeb4b67ed70491b3b52d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="D:\My_Folder\Study\Programming\Android\newsbuzz\build\app\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\My_Folder\Study\Programming\Android\newsbuzz\build\firebase_analytics\intermediates\intermediate-jars\release\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="824a696f17749f4448f7c1343da022f9a46fa847">
+        <dex dex="D:\My_Folder\Study\Programming\Android\newsbuzz\build\app\intermediates\transforms\preDex\release\25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishal\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\bf9b3ed7b03e5274a7cf79f25863aae4\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="D:\My_Folder\Study\Programming\Android\newsbuzz\build\app\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishal\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.0.4.aar\965aa89ffd6b46f4ffd3e167768fda2e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="D:\My_Folder\Study\Programming\Android\newsbuzz\build\app\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishal\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\6a808214dc4a38eafda746438a240a16\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="D:\My_Folder\Study\Programming\Android\newsbuzz\build\app\intermediates\transforms\preDex\release\22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishal\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\4404ccfabd4785460a405a1ec60fcda7\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="D:\My_Folder\Study\Programming\Android\newsbuzz\build\app\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\My_Folder\Study\Programming\Android\newsbuzz\build\google_sign_in\intermediates\intermediate-jars\release\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0407f7399bcd395ccd853ad262ae6d6149eb19bc">
+        <dex dex="D:\My_Folder\Study\Programming\Android\newsbuzz\build\app\intermediates\transforms\preDex\release\28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishal\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\20.0\89507701249388e1ed5ddcf8c41f4ce1be7831ef\guava-20.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="89507701249388e1ed5ddcf8c41f4ce1be7831ef">
+        <dex dex="D:\My_Folder\Study\Programming\Android\newsbuzz\build\app\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishal\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\10428cc1d4d3fad91323181c24df0d61\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="D:\My_Folder\Study\Programming\Android\newsbuzz\build\app\intermediates\transforms\preDex\release\21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishal\.gradle\caches\transforms-1\files-1.1\firebase-storage-11.0.4.aar\582e405dd85210300c987bb3f3a0afac\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3ac08c35419ab7cf9146969de471768dbe502f0f">
+        <dex dex="D:\My_Folder\Study\Programming\Android\newsbuzz\build\app\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishal\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\815711565d5c53c3eb6ce1dd28526303\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="D:\My_Folder\Study\Programming\Android\newsbuzz\build\app\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishal\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\705d2efd61444eafad73e78a2f24d029\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="D:\My_Folder\Study\Programming\Android\newsbuzz\build\app\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\My_Folder\Study\Programming\Android\newsbuzz\build\firebase_database\intermediates\intermediate-jars\release\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="50d21401501f90efee66bcf7db4dd25187626bb5">
+        <dex dex="D:\My_Folder\Study\Programming\Android\newsbuzz\build\app\intermediates\transforms\preDex\release\30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishal\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-11.0.4.aar\51624658eea7cfa9e702e4f4ef9dc488\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4b685077cdb08cf7ae8b61afd1fe910e47d91b9a">
+        <dex dex="D:\My_Folder\Study\Programming\Android\newsbuzz\build\app\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishal\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\e7885b97564b2e5b683463ffc05a29dc\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\My_Folder\Study\Programming\Android\newsbuzz\build\app\intermediates\transforms\preDex\release\18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishal\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\ada34cf4097ac10160b488abfc3e7660\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="D:\My_Folder\Study\Programming\Android\newsbuzz\build\app\intermediates\transforms\preDex\release\20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishal\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\9c6beb4800dbfa32c136313f81d3c232\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="D:\My_Folder\Study\Programming\Android\newsbuzz\build\app\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishal\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\973aa5fee9cec023e90c1c22257fdb09\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="D:\My_Folder\Study\Programming\Android\newsbuzz\build\app\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\My_Folder\Study\Programming\Android\newsbuzz\build\flutter_webview_plugin\intermediates\intermediate-jars\release\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88f3750de146106c169ddefe16811a542fb57887">
+        <dex dex="D:\My_Folder\Study\Programming\Android\newsbuzz\build\app\intermediates\transforms\preDex\release\29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishal\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\e67dc2520555b60d514b3bb13d5dd991\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f5ff5e3811e8c9485fd27f9052ae4d4d23a22d9d">
+        <dex dex="D:\My_Folder\Study\Programming\Android\newsbuzz\build\app\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vishal\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.0.4.aar\763f996dac136c2b22dbb23073fb0c24\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="D:\My_Folder\Study\Programming\Android\newsbuzz\build\app\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+
+</items>

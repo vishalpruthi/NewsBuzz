@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\My_Folder\\Study\\Programming\\Android\\newsbuzz\\build\\google_sign_in\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "C:\\Users\\Vishal\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.4.aar\\705d2efd61444eafad73e78a2f24d029\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\My_Folder\\Study\\Programming\\Android\\newsbuzz\\build\\google_sign_in\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\googleg_disabled_color_18.png",
+        "source": "C:\\Users\\Vishal\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.4.aar\\705d2efd61444eafad73e78a2f24d029\\res\\drawable-mdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "D:\\My_Folder\\Study\\Programming\\Android\\newsbuzz\\build\\google_sign_in\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "C:\\Users\\Vishal\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.4.aar\\705d2efd61444eafad73e78a2f24d029\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\My_Folder\\Study\\Programming\\Android\\newsbuzz\\build\\google_sign_in\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "C:\\Users\\Vishal\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.4.aar\\705d2efd61444eafad73e78a2f24d029\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\My_Folder\\Study\\Programming\\Android\\newsbuzz\\build\\google_sign_in\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "C:\\Users\\Vishal\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.4.aar\\705d2efd61444eafad73e78a2f24d029\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\My_Folder\\Study\\Programming\\Android\\newsbuzz\\build\\google_sign_in\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\googleg_standard_color_18.png",
+        "source": "C:\\Users\\Vishal\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.4.aar\\705d2efd61444eafad73e78a2f24d029\\res\\drawable-mdpi-v4\\googleg_standard_color_18.png"
+    }
+]

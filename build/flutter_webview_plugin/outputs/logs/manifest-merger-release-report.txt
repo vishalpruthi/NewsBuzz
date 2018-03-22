@@ -1,0 +1,29 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Vishal\AppData\Roaming\Pub\Cache\hosted\pub.dartlang.org\flutter_webview_plugin-0.0.9+1\android\src\main\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\Vishal\AppData\Roaming\Pub\Cache\hosted\pub.dartlang.org\flutter_webview_plugin-0.0.9+1\android\src\main\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\Vishal\AppData\Roaming\Pub\Cache\hosted\pub.dartlang.org\flutter_webview_plugin-0.0.9+1\android\src\main\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\Vishal\AppData\Roaming\Pub\Cache\hosted\pub.dartlang.org\flutter_webview_plugin-0.0.9+1\android\src\main\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\Vishal\AppData\Roaming\Pub\Cache\hosted\pub.dartlang.org\flutter_webview_plugin-0.0.9+1\android\src\main\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\Vishal\AppData\Roaming\Pub\Cache\hosted\pub.dartlang.org\flutter_webview_plugin-0.0.9+1\android\src\main\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\Vishal\AppData\Roaming\Pub\Cache\hosted\pub.dartlang.org\flutter_webview_plugin-0.0.9+1\android\src\main\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from C:\Users\Vishal\AppData\Roaming\Pub\Cache\hosted\pub.dartlang.org\flutter_webview_plugin-0.0.9+1\android\src\main\AndroidManifest.xml:2:11-47
+		INJECTED from C:\Users\Vishal\AppData\Roaming\Pub\Cache\hosted\pub.dartlang.org\flutter_webview_plugin-0.0.9+1\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Vishal\AppData\Roaming\Pub\Cache\hosted\pub.dartlang.org\flutter_webview_plugin-0.0.9+1\android\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Vishal\AppData\Roaming\Pub\Cache\hosted\pub.dartlang.org\flutter_webview_plugin-0.0.9+1\android\src\main\AndroidManifest.xml:4:11-38
+		INJECTED from C:\Users\Vishal\AppData\Roaming\Pub\Cache\hosted\pub.dartlang.org\flutter_webview_plugin-0.0.9+1\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Vishal\AppData\Roaming\Pub\Cache\hosted\pub.dartlang.org\flutter_webview_plugin-0.0.9+1\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Vishal\AppData\Roaming\Pub\Cache\hosted\pub.dartlang.org\flutter_webview_plugin-0.0.9+1\android\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from C:\Users\Vishal\AppData\Roaming\Pub\Cache\hosted\pub.dartlang.org\flutter_webview_plugin-0.0.9+1\android\src\main\AndroidManifest.xml:3:11-34
+		INJECTED from C:\Users\Vishal\AppData\Roaming\Pub\Cache\hosted\pub.dartlang.org\flutter_webview_plugin-0.0.9+1\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Vishal\AppData\Roaming\Pub\Cache\hosted\pub.dartlang.org\flutter_webview_plugin-0.0.9+1\android\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\Vishal\AppData\Roaming\Pub\Cache\hosted\pub.dartlang.org\flutter_webview_plugin-0.0.9+1\android\src\main\AndroidManifest.xml:6:5-73
+	android:targetSdkVersion
+		ADDED from C:\Users\Vishal\AppData\Roaming\Pub\Cache\hosted\pub.dartlang.org\flutter_webview_plugin-0.0.9+1\android\src\main\AndroidManifest.xml:6:42-71
+	android:minSdkVersion
+		ADDED from C:\Users\Vishal\AppData\Roaming\Pub\Cache\hosted\pub.dartlang.org\flutter_webview_plugin-0.0.9+1\android\src\main\AndroidManifest.xml:6:15-41

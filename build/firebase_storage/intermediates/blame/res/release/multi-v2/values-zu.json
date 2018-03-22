@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\My_Folder\\Study\\Programming\\Android\\newsbuzz\\build\\firebase_storage\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-zu\\values-zu.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Vishal\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.0.4.aar\\973aa5fee9cec023e90c1c22257fdb09\\res\\values-zu\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "190",
+                        "endOffsets": "475"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "190",
+                        "endOffsets": "291"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\My_Folder\\Study\\Programming\\Android\\newsbuzz\\build\\firebase_storage\\intermediates\\res\\merged\\release\\values-zu\\values-zu.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Vishal\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.0.4.aar\\973aa5fee9cec023e90c1c22257fdb09\\res\\values-zu\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "190",
+                        "endOffsets": "475"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "190",
+                        "endOffsets": "291"
+                    }
+                }
+            ]
+        }
+    ]
+}
